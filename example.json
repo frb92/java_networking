@@ -1,0 +1,10 @@
+{
+  "company" : {
+    "name" : "Bartosz",
+    "products" : [ "games", "xbox", "websites", "training"],
+    "Address" : {
+      "city" : " Warsaw",
+      "country" : "Poland"
+    }
+  }
+}
